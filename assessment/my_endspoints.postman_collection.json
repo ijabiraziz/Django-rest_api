@@ -1,0 +1,42 @@
+{
+	"info": {
+		"_postman_id": "a4d531cc-a0d9-4f7c-b853-2c8827883987",
+		"name": "my_endspoints",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "23399772"
+	},
+	"item": [
+		{
+			"name": "Main Api",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "valuation/",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "insider-transactions",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "post-data",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
